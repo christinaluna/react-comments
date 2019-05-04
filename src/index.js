@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import faker from 'faker';
 import CommentDetail from './CommentDetail';
 import ApprovalCard from './ApprovalCard';
+import Segment from './Segment';
 
 // this is parent, passes props down to child (component)
 const App = () => {
